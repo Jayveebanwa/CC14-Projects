@@ -6,7 +6,7 @@
 body {
     margin: 0;
     font-family: "Segoe UI", Arial, sans-serif;
-    background-image: url(Sea.jpg);
+    background-image: url(../Images/Sea.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
